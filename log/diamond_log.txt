@@ -1,0 +1,59 @@
+2019-07-02 22:20:05,207 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:20:13,517 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:20:13,648 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:25:58,997 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:26:00,108 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:26:00,108 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:26:56,348 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:26:57,438 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:26:57,438 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:27:00,578 - odmr._run - ERROR - Error in odmr.
+Traceback (most recent call last):
+  File "D:\ilja\pi3diamond\measurements\odmr.py", line 157, in _run
+    self.counter.configure(n, self.seconds_per_point, DutyCycle=0.8)
+AttributeError: 'ODMR' object has no attribute 'counter'
+2019-07-02 22:29:09,688 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:29:10,789 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:29:10,809 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:42:56,650 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:42:57,750 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:42:57,759 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:43:34,940 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:43:36,039 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:43:36,049 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:44:01,420 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:44:05,559 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:44:05,569 - cron.run - INFO - Starting Cron Daemon.
+2019-07-02 22:45:00,569 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-02 22:45:01,529 - emod.start - INFO - Starting Job Manager.
+2019-07-02 22:45:01,539 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 11:38:40,795 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 11:38:41,785 - emod.start - INFO - Starting Job Manager.
+2019-07-03 11:38:41,805 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 15:54:44,086 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 15:54:45,056 - emod.start - INFO - Starting Job Manager.
+2019-07-03 15:54:45,056 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:04:30,056 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:04:31,036 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:04:31,036 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:05:13,397 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:05:14,357 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:05:14,357 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:06:05,467 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:06:06,427 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:06:06,427 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:06:54,128 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:06:55,098 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:06:55,098 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:07:35,997 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:07:36,977 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:07:36,977 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:08:07,257 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:08:08,247 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:08:08,247 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:12:07,148 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:12:08,118 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:12:08,118 - cron.run - INFO - Starting Cron Daemon.
+2019-07-03 16:22:57,148 - pi3diamond.<module> - INFO - Starting logger.
+2019-07-03 16:22:58,118 - emod.start - INFO - Starting Job Manager.
+2019-07-03 16:22:58,118 - cron.run - INFO - Starting Cron Daemon.
